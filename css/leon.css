@@ -524,7 +524,13 @@ body {
 
 @media (max-width:767px) {
     .footer {
-        font-size: 10px;
+        font-size: 11px;
+    }
+}
+
+@media (max-width:400px) {
+    .footer {
+        font-size: 8px;
     }
 }
 
