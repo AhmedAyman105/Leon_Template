@@ -491,7 +491,10 @@ body {
 
 @media (max-width:767px) {
     .contact .info .link {
-        font-size: 30px;
+        font-size: 25px;
+    }
+    .contact .info .label {
+        font-size: 25px;
     }
 }
 
@@ -518,4 +521,11 @@ body {
     color: var(--main-color);
     font-weight: bold;
 }
+
+@media (max-width:767px) {
+    .footer {
+        font-size: 10px;
+    }
+}
+
 /* Start Footer */
